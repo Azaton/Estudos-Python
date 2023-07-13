@@ -1,8 +1,6 @@
 # Estruturas Condicionais + Desvio de Controles
-#  
 
 import sys
-
 
 saldo = 5000.0
 saque = float(input("Informe o valor do saque: "))
