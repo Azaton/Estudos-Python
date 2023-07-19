@@ -1,14 +1,3 @@
-####### EXERCÍCIO: SISTEMA BANCÁRIO #######
-
-# Funcionalidades: Depósito, Saque, Extrato, Sair
-# Não permitir valor negativo ou entrada "0" ou maior que "4"
-# Deposito não tem limite.
-# Regra: 3 saques diários, com limite de R$ 500 por saque.
-# Para resetar o dia, pare o programa e recomece as operações.
-# Exibir o saldo atual já préconfigurado na variável "saldo" da conta.
-# Não existe usuário, senha, validação de AG/CC.
-# Exibir histórico em "Extrato"
-
 saldo = 5000
 limite = 500
 extrato = []
