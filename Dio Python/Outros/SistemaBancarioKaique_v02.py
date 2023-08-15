@@ -98,8 +98,8 @@ def lista_contas(contas):
           Titular:\t{conta['usuario']['nome']}
 '''
         linhas.append(textwrap.dedent(linha))
-
-    print('' * 100)
+        
+    print('\n')
     print(''.join(linhas))
 
 def main():
